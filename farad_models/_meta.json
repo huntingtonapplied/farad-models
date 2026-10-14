@@ -1,0 +1,7 @@
+{
+  "project": "farad",
+  "crafts": [
+    "farad_threat_detector_v1"
+  ],
+  "version": "0.2.1"
+}
